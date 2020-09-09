@@ -1,6 +1,6 @@
 {
   "name": "@widesky/modbus-serial",
-  "version": "9.0.0",
+  "version": "9.0.1",
   "description": "A pure JavaScript implemetation of MODBUS-RTU (Serial and TCP) for NodeJS.",
   "main": "index.js",
   "scripts": {
