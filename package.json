@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yaacov/node-modbus-serial.git"
+    "url": "https://github.com/widesky/node-modbus-serial.git"
   },
   "keywords": [
     "modbus",
@@ -16,14 +16,15 @@
     "serial",
     "port",
     "com",
-    "arduino"
+    "arduino",
+    "widesky"
   ],
   "author": "Yaacov Zamir <kobi.zamir@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/yaacov/node-modbus-serial/issues"
   },
-  "homepage": "https://github.com/yaacov/node-modbus-serial#readme",
+  "homepage": "https://github.com/widesky/node-modbus-serial#readme",
   "devDependencies": {
     "chai": "^4.2.0",
     "eslint": "^6.5.1",
